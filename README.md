@@ -8,3 +8,4 @@ Since each piece you receive has a random shape and size, and the enemy player's
 
 To do this, I designed a simple heat map where each spot on the grid is a numeric value representing its distance from the enemy piece. When I place a piece, I place one that gets me closest to the enemy player's pieces eventually suffocating the enemy player's pieces. Due to the number of calculations and upkeep this has, it's really slow on larger maps, but it wins about 95% of the time.
 
+<strong>How to run: ./filler_vm -f ./path_to_map -p1 ./path_to_player -p2 ./path_to_player</strong> 
