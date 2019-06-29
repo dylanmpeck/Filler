@@ -16,7 +16,7 @@ Run "make" which will create an executable. Then run "./filler_vm -f ./path_to_m
 
 <h3>Sample game</h3>
 
-![alt-text](https://media.giphy.com/media/Q81erau6qymwdxGlV8/giphy.gif "Filler")
+![alt-text](https://media.giphy.com/media/Lmkmg4mWMybQlnbpu8/giphy.gif "Filler")
 
 <h3>Screenshot</h3>
 
