@@ -17,3 +17,7 @@ Run "make" which will create an executable. Then run "./filler_vm -f ./path_to_m
 <h3>Sample game</h3>
 
 ![alt-text](https://media.giphy.com/media/Q81erau6qymwdxGlV8/giphy.gif "Filler")
+
+<h3>Screenshot</h3>
+
+![alt-text](https://github.com/dylanmpeck/Filler/blob/master/screenshot/end.png "Ending score")
